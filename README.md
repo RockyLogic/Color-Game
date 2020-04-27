@@ -1,6 +1,6 @@
 # 🎨 Color-Game
 ## About:
-Color game based on selecting the right color corresponding to the rgb code, project made with html css and js. 
+Color game based on selecting the right color corresponding to the rgb code, project made with html css and js. Learning Project.
 
 Deployed @: [https://rockylogic.github.io/Color-Game/]
 
