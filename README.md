@@ -1,3 +1,3 @@
 #🎨 Color-Game
 Color selecting game made with html css and js.
-![Webpage Preview](https://discordapp.com/api/webhooks/704049988300308491/anQOd721otzr23ZYoGEs25HsBCYDH6zQXPGZnDnBdx-PbSB0PXBczj6HOzi7Dnc2D5b2)
+![Webpage Preview](https://cdn.discordapp.com/attachments/613371646937399296/704170209464025158/unknown.png)
